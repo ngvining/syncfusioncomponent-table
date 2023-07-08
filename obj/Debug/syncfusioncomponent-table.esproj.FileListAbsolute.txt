@@ -1,0 +1,2 @@
+C:\Users\Nicholas\source\repos\syncfusioncomponent-table\obj\Debug\syncfusioncomponent-table.esproj.SuggestedBindingRedirects.cache
+C:\Users\Nicholas\source\repos\syncfusioncomponent-table\obj\Debug\syncfusioncomponent-table.esproj.CoreCompileInputs.cache
